@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "g++ -std=c++14 \"$file_name\" -o \"$file_base_name\" && \"$file_base_name\" <\"F:\\C++\\IO\\input.txt\">\"F:\\C++\\IO\\output.txt\" "
+}

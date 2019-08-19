@@ -1,0 +1,6 @@
+{
+"cmd" : ["g++ $file_name -std=c++11  && timeout 4s ./a.out <input.txt >output.txt"], 
+"selector" : "source.c,source.c++",
+"shell": true,
+"working_dir" : "$file_path"
+}

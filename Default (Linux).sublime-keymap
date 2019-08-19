@@ -1,0 +1,6 @@
+[
+	{ "keys": ["f9"], "command": "build" },
+	{ "keys": ["ctrl+b"], "command": "build" },
+	{ "keys": ["ctrl+shift+b"], "command": "build", "args": {"select": true} },
+	{ "keys": ["ctrl+f9"], "command": "cancel_build" },
+]
