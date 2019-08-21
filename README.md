@@ -17,7 +17,7 @@
 
 #### Free Serial Key
   ```
-          ZYNGA INC.
+      ZYNGA INC.
       50 User License
       EA7E-811825
       927BA117 84C9300F 4A0CCBC4 34A56B44
